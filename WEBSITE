@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ILOVEJAMIECHUNG.COM</title>
+    <style>
+        body {
+            background-color: pink;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Welcome to ILOVEJAMIECHUNG.COM!</h1>
+    <p>We appreciate your love and support for Jamie Chung.</p>
+    <p>Feel free to explore and share your admiration!</p>
+</body>
+
+</html>
